@@ -204,3 +204,6 @@ and `react-native-biometrics` for biometric prompts. All three are actively used
 
 <!-- handsoff-issue-2354 -->
 - #2354: 🟡 MEDIUM: Health Check Too Simple
+
+<!-- handsoff-issue-2603 -->
+- #2603: Ingestion: idempotent writes for re-processed ledgers
